@@ -1,0 +1,12 @@
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\bin\Debug\net6.0\Application.deps.json
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\bin\Debug\net6.0\Application.dll
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\bin\Debug\net6.0\Application.pdb
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.dll
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\refint\Application.dll
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\Application.pdb
+E:\VisualStudio\proyectos\ApiRestTestSummit\ApiRestTestSummit\Application\obj\Debug\net6.0\ref\Application.dll
